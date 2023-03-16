@@ -9,3 +9,5 @@ The handler dependency stats list is sorted in descending order of "popularity" 
 
 Note that there is no guarantee that the dependencies displayed are actually true. If you include two different unrelated stacks, which have similarly named handlers in them, dependencies will be claimed, but each stack is actually independent. 
 So, to get a relevant analysis, include only stacks that belong to the same project, or are used by it.
+
+The stack requires LiveCode v9.5+ to run. It only uses standard LiveCode controls and widgets.
