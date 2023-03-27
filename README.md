@@ -1,4 +1,12 @@
 # WIS_ScriptDepedencies
+
+## Updates
+1.0.1 (26 Mar 2023)
+Fixed bug: Error occurred when selecting in tree view a stackname containing " of "
+Fixed bug: Error when trying to filter certain empty lists
+Enhancement: Better output report file naming
+
+## Description
 LiveCode tool for mapping and analysing script handler dependencies in your LiveCode projects
 
 This is a developer tool for mapping and analysing LiveCode projects that may have many handlers and many stacks including library stacks etc.
