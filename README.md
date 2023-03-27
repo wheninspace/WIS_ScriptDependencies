@@ -3,11 +3,8 @@
 ## Updates
 
 1.0.1 (26 Mar 2023)
-
 Fixed bug: Error occurred when selecting in tree view a stackname containing " of "
-
 Fixed bug: Error when trying to filter certain empty lists
-
 Enhancement: Better output report file naming
 
 ## Description
