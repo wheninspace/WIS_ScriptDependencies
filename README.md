@@ -4,12 +4,12 @@
 
 1.0.1 (26 Mar 2023)
 
-Fixed bug: Error occurred when selecting in tree view a stackname containing " of "
-
-Fixed bug: Error when trying to filter certain empty lists
-
-Enhancement: Better output report file naming
-
+<ul>
+<li>Fixed bug: Error occurred when selecting in tree view a stackname containing " of "</li>
+<li>Fixed bug: Error when trying to filter certain empty lists</li>
+<li>Enhancement: Better output report file naming</li>
+</ul>
+  
 ## Description
 LiveCode tool for mapping and analysing script handler dependencies in your LiveCode projects
 
