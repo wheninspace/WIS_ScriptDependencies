@@ -2,6 +2,12 @@
 
 ## Updates
 
+1.0.2 (12 Apr 2023)
+
+<ul>
+<li>Fixed bug: runLookUp loop didn’t start over from the top node when searching, causing dependencies to be missed</li>
+</ul>
+
 1.0.1 (26 Mar 2023)
 
 <ul>
