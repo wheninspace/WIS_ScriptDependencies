@@ -2,6 +2,11 @@
 
 ## Updates
 
+1.0.3 (10 May 2023)
+<ul>
+<li>Fixed bug: On Windows, only files with .livecodescript  or .rev would show up when selecting individual files for the list. Now .livecode files also appear.</li>
+</ul>
+
 1.0.2 (12 Apr 2023)
 
 <ul>
