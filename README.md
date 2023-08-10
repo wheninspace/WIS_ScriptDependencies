@@ -2,7 +2,7 @@
 
 ## Updates
 
-1.0.4 (10 August 2023)
+1.0.4 (10 August 2023) NB! The flowchart is currently not working on Windows! Investigation ongoing...
 <ul>
 <li>Enhancement: Possibility to output to flowchart. This adds a very cool new dimension to the tool, giving a visual representation of the script flows.</li>
 </ul>
