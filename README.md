@@ -2,6 +2,11 @@
 
 ## Updates
 
+1.0.4 (10 August 2023)
+<ul>
+<li>Enhancement: Possibility to output to flowchart. This adds a very cool new dimension to the tool, giving a visual representation of the script flows.</li>
+</ul>
+
 1.0.3 (10 May 2023)
 <ul>
 <li>Fixed bug: On Windows, only files with .livecodescript  or .rev would show up when selecting individual files for the list. Now .livecode files also appear.</li>
