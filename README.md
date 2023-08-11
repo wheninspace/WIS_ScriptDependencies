@@ -1,6 +1,14 @@
 # WIS_ScriptDepedencies
 
 ## Updates
+1.0.5 (11 Aug 2023) NB! The flowchart is currently not working on Windows! Investigation ongoing...
+<ul>
+<li>Fixed bug: Stacks with . in their name didn’t trigger correctly from the Handler hierarchy list</li>
+<li>Enhancement: Flowchart shapes for command, function, getProp/setProp improved</li>
+<li>Enhancement: Presentation of the number of commands, functions, getProp/setProps</li>
+<li>Enhancement: Better activity spinner</li>
+<li>Other minor fixes</li>
+</ul>
 
 1.0.4 (10 August 2023) NB! The flowchart is currently not working on Windows! Investigation ongoing...
 <ul>
