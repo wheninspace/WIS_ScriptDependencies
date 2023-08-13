@@ -1,4 +1,4 @@
-# WIS_ScriptDepedencies
+# WIS_ScriptDependencies
 
 ## Updates
 1.0.6 (13 Aug 2023)
