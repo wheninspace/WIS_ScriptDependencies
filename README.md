@@ -1,7 +1,16 @@
 # WIS_ScriptDepedencies
 
 ## Updates
-1.0.5 (11 Aug 2023) NB! The flowchart is currently not working on Windows! Investigation ongoing...
+1.0.6 (13 Aug 2023)
+<ul>
+<li>Enhancement: Flowchart can now be exported to HTML file and launched in external browser. This is currently the only option for Windows users. Mac users get the in-stack interactive flowchart per default, but can choose to create an HTML file by pressing shift while clicking the Output flowchart button</li>
+<li>Enhancement: Handlers that unambiguously reside in one single stack/card/control script can be grouped together in the flowchart view. This function can be toggled on/off</li>
+<li>Enhancement: Possibility to filter out and filter in certain handlers. Filtering out some handlers , such as ”log” or mouse events can make some flowcharts less crowded</li>
+<li>Enhancement: The stack now looks for newer versions of itself on startup</li>
+<li>Other minor fixes</li>
+</ul>
+
+1.0.5 (11 Aug 2023)
 <ul>
 <li>Fixed bug: Stacks with . in their name didn’t trigger correctly from the Handler hierarchy list</li>
 <li>Enhancement: Flowchart shapes for command, function, getProp/setProp improved</li>
