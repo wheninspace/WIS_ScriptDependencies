@@ -1,6 +1,19 @@
 # WIS_ScriptDependencies
 
 ## Updates
+1.1.0 (18 Aug 2023)
+
+Enhancements:
+<ul>
+<li>A major overhaul of the stack selection feature. You can now save sets of stacks as ”projects” to easily switch between stack sets when running the analysis.</li>
+<li>The flowchart settings have moved into the main UI, making flowchart customisation equally accessible on all platforms.</li>
+<li>Project data and general settings are now saved to an lson file in the same folder when closing the stack. Any new version of the WIS_ScriptDependencies stack placed in the same folder will automatically restore your project data and general settings.</li>
+</ul>
+<ul>
+<li>Fixed bug: No browser widgets will appear when using the stack on Linux, to prevent crashing</li>
+<li>Other minor fixes</li>
+</ul>
+
 1.0.6 (13 Aug 2023)
 <ul>
 <li>Enhancement: Flowchart can now be exported to HTML file and launched in external browser. This is currently the only option for Windows users. Mac users get the in-stack interactive flowchart per default, but can choose to create an HTML file by pressing shift while clicking the Output flowchart button</li>
