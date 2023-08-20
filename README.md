@@ -1,6 +1,15 @@
 # WIS_ScriptDependencies
 
 ## Updates
+1.1.1 (20 Aug 2023)
+
+<ul>
+<li>Enhancement: Flowchart width limitation can now be turned off, to display the flowchart at actual size, instead of shrinking big charts to an unreadable size</li>
+<li>Enhancement: Commands, functions and get/setProp nodes now have different colours to make them easier to distinguish between. Possibility for user selected colours will be implemented in a coming version.</li>
+<li>Enhancement: In general settings it is now possible to increase the char maximum of the flowchart syntax text, to enable display of very large flowcharts. Only change this value if you get a "Maximum text size exceeded" error message in the flowchart.</li>
+<li>Other minor fixes</li>
+</ul>
+
 1.1.0 (18 Aug 2023)
 
 Enhancements:
