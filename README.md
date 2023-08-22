@@ -1,6 +1,14 @@
 # WIS_ScriptDependencies
 
 ## Updates
+1.1.2 (22 Aug 2023)
+<ul>
+<li>Fixed bug: Commented-out handlers are now skipped when mapping relations</li>
+<li>Fixed bug: Sometimes when upgrading from an earlier version, the user setting for char maximum of the flowchart syntax text could be empty, causing the flowchart to display only text</li>
+<li>Enhancement: If a handler has more than one ”handler host”, i.e. resides in more than one script, the number of occurrences is shown in its flowchart node
+<li>Other minor fixes</li>
+</ul>
+
 1.1.1 (20 Aug 2023)
 
 <ul>
