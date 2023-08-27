@@ -6,7 +6,7 @@
 <li>Fixed bug: Saving user projects and settings didn’t trigger properly at closeStack. Now triggers at closeCard instead.</li>
 <li>Enhancement: Handler analysis and comment stripping is now considerably faster to complete, especially in large projects</li>
 <li>Enhancement: If a handler is selected in the Handler dependency stats field when creating a flowchart, all the arrows leading to and from that handler node will be coloured, to make them easier to follow. On MacOS, this will also happen when clicking a handler in the flowchart (in the browser widget).</li>
-<li>Enhancement: Flowchart settings moved to its own settings pane, and node colors made modifiable</li>
+<li>Enhancement: Flowchart settings moved to its own settings pane, and node colours made modifiable</li>
 </ul>
 
 1.1.2 (22 Aug 2023)
