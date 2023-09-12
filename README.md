@@ -1,6 +1,12 @@
 # WIS_ScriptDependencies
 
 ## Updates
+1.1.4 (12 Sep 2023)
+<ul>
+<li>Enhancement: Individual substacks can now be excluded from mapping/analysis by clicking the substack name in the stacks list. Excluded stacks/substacks are italic in the list.
+(If a mainstack is excluded, its substacks are automatically excluded, like before.)</li>
+</ul>
+
 1.1.3 (27 Aug 2023)
 <ul>
 <li>Fixed bug: Saving user projects and settings didn’t trigger properly at closeStack. Now triggers at closeCard instead.</li>
