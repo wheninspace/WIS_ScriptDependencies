@@ -5,7 +5,7 @@
 <ul>
 <li>Enhancement: Flowcharts can now be produced and exported as PNG or SVG. On Windows and Linux the flowchart is now always displayed in-stack, as a PNG. On all platforms the flowchart can be exported as PNG, SVG and HTML.</li>
 <li>Enhancement: Node text size can now be set</li>
-<li>Adjustment: Handler type naming convention changed in LC10, making ”M” mean ”on” and ”C” mean ”command” (and changing ”PM” into ”CM” for ”private command”). This is now correctly handled when using WIS_ScriptDependencies in either LC9 or LC10.</li>
+<li>Adjustment: Handler type naming convention changed in LC10, making ”M” mean ”on” and ”C” mean ”command” (and changing ”PM” into ”PC” for ”private command”). This is now correctly handled when using WIS_ScriptDependencies in either LC9 or LC10.</li>
 <li>Fixed bug: Arrow colouring failed for private commands/functions</li>
 <li>Fixed bug: The (rarely used) constructions ”before *command name*" and  ”after *command name*” now get included in analysis and flowchart (displayed as ”command *command name*")</li>
 <li>Other minor fixes</li>
