@@ -1,6 +1,15 @@
 # WIS_ScriptDependencies
 
 ## Updates
+1.1.6 (12 Dec 2023)
+<ul>
+<li>Enhancement: If the Kroki service is down, so no png/svg can be produced, a dialog is presented giving the choice to render the flowchart as html instead</li>
+<li>Enhancement: Improved design of the help section and the flowchart settings pane</li>
+<li>Enhancement: Mermaid version can now be modified (affects html rendering only). This is not something you’d normally need to do, but it has turned out that the latest versions of Mermaid implement some kind of hard limit on the number of edges, preventing large flowcharts from rendering. So for now, Mermaid v10.5.1 is default (no edge limit), but can be changed to a later version by advanced users.</li>
+<li>Fixed bug: Some actions in the mainstack triggered flowchart updates even if the flowchart substack was closed</li>
+<li>Other minor fixes</li>
+</ul>
+
 1.1.5 (30 Nov 2023)
 <ul>
 <li>Enhancement: Flowcharts can now be produced and exported as PNG or SVG. On Windows and Linux the flowchart is now always displayed in-stack, as a PNG. On all platforms the flowchart can be exported as PNG, SVG and HTML.</li>
