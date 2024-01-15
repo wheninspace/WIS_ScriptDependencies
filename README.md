@@ -1,6 +1,12 @@
 # WIS_ScriptDependencies
 
 ## Updates
+1.1.7 (15 Jan 2024)
+<ul>
+<li>Fixed bug: In LC10, ”on” handlers did not get correct arrow colouring when highlighting the node</li>
+<li>Enhancement/fix: Private functions now have the correct node colour, and a different node shape, to distinguish them from private commands</li>
+</ul>
+
 1.1.6 (12 Dec 2023)
 <ul>
 <li>Enhancement: If the Kroki service is down, so no png/svg can be produced, a dialog is presented giving the choice to render the flowchart as html instead</li>
