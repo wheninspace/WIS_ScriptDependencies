@@ -125,3 +125,5 @@ Note that there is no guarantee that the dependencies displayed are actually tru
 So, to get a relevant analysis, include only stacks that belong to the same project, or are used by it.
 
 The stack requires LiveCode v9.5+ to run. It only uses standard LiveCode controls and widgets.
+
+This tool is free of charge, but if you like my work and want to suppport it you can buy me a coffee: https://www.buymeacoffee.com/riu9yazy7p
