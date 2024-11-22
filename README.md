@@ -1,6 +1,16 @@
 # WIS_ScriptDependencies
 
 ## Updates
+1.2.0 (22 Nov 2024)
+
+Finally, in the most recent versions of LiveCode, the browser widget is upgraded and can run Mermaid code! Hence the version number jump-up! :)
+<ul>
+<li>Enhancement: Flowcharts can now be displayed in the browser widget also on Windows, when using LC versions 9.6.13 (rc and stable), 10.0.0 (rc or stable) and all 10.0.1+ versions.</li>
+<li>Enhancement: Added a settings pane for which handler types to include/exclude. The setting is global, not per project. Default is to include all handler types.</li>
+<li>Enhancement: Implemented code formatting/colouring in the code display field</li>
+<li>Fixed bug: Some flowchart nodes (handler names) were not correctly styled</li>
+</ul>
+
 1.1.7 (15 Jan 2024)
 <ul>
 <li>Fixed bug: In LC10, ”on” handlers did not get correct arrow colouring when highlighting the node</li>
