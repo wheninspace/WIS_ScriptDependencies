@@ -1,8 +1,12 @@
 # WIS_ScriptDependencies
 
 ## Updates
-1.2.0 (22 Nov 2024)
+1.2.1 (4 Dec 2024)
+<ul>
+<li>Fixed bug: Creation of PNGs and SVGs mostly failed. Setting the httpHeaders to "Content-Type: text/plain" fixed it.</li>
+</ul>
 
+1.2.0 (22 Nov 2024)
 Finally, in the most recent versions of LiveCode, the browser widget is upgraded and can run Mermaid code! Hence the version number jump-up! :)
 <ul>
 <li>Enhancement: Flowcharts can now be displayed in the browser widget also on Windows, when using LC versions 9.6.13 (rc and stable), 10.0.0 (rc or stable) and all 10.0.1+ versions.</li>
