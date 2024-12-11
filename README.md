@@ -1,6 +1,12 @@
 # WIS_ScriptDependencies
 
 ## Updates
+1.2.2 (11 Dec 2024)
+<ul>
+<li>Fixed bug: Function boxes were not correctly included in host containers, when using the ”Group per handler host” feature
+<li>Enhancement: The maxEdges value is now set to 5000, making it possible to draw enormous flowcharts also with Mermaid v11.4+. Note though, that the PNG/SVG production, which uses the kroki.io service, is still limited to the standard 500 edges (due to kroki.io limitations).</li>
+</ul>
+
 1.2.1 (4 Dec 2024)
 <ul>
 <li>Fixed bug: Creation of PNGs and SVGs mostly failed. Setting the httpHeaders to "Content-Type: text/plain" fixed it.</li>
